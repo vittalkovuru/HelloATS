@@ -8,7 +8,7 @@ public class HelloATSTeam {
 	      System.out.println("Hello, HYderabad");
 	      System.out.println("Hello, Bangalore");
 	      System.out.println("Hello, chennai");
-		System.out.println("PULL");
-		System.out.println("PUsh");
-	   }
+	      System.out.println("PULL");
+	      System.out.println("PUshdd");
+	 }
 }
